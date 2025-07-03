@@ -1,5 +1,5 @@
 let nome = "Aslam"
-let qtdXP = 10
+let qtdXP = 9980
 
 switch(true){ //switch(true) === compara o resultado de cada case. quando a condição for verdadeira, ele executa o bloco correspondente
     case qtdXP < 1000:
